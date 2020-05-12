@@ -1,14 +1,11 @@
 ---
 date: "2017-06-26T18:27:58+01:00"
-title: "Home"
+title: "Hello World!"
 ---
 
-Welcome to **Cupper**: An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project. Here are some of its features:
+Welcome to the personal website of **Daniel Juan**: a developer and designer based in Spain. Here are some things I like:
 
 {{< ticks >}}
-* Screen reader and keyboard accessible
-* Responsive
-* Numerous shortcodes
-* Toggleable dark theme
-* Toggleable table of contents per blog post
+* Healthy Food
+* Vintage Computing
 {{< /ticks >}}
