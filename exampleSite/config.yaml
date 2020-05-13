@@ -17,7 +17,7 @@ imaging:
   quality: 99
 
 params:
-  description: Earl Grey, hot please.
+  description: Tea, Earl Grey, Hot.
   homeMetaContent: A personal page built with Hugo and a theme ported from the original Cupper project.
   footer: Made with [Hugo](https://gohugo.io/).
   # For more date formats see https://gohugo.io/functions/format/
