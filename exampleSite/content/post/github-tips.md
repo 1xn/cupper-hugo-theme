@@ -1,12 +1,12 @@
 ---
-title: "Github commands tip sheet"
+title: "Github command-line tips"
 date: 2020-05-12T15:36:09-06:00
-tags: [unix, tips, command line]
+tags: [unix, tips, command line, git]
 ---
 
-Every now and then I come up with a command or little script that makes my work at the computer easier and more enjoyable. I try to keep up with a list of these useful commands or snippets.
+Here is a little `git` guide for the command-line. These are the most used commands in my case, im sure there are many more so if I learn anything new it will be added here.
 
-I'll be updating this page.
+### The Basics
 
 ## Initialize new github repository
 {{< cmd >}}
@@ -23,12 +23,12 @@ git clone /path/to/repository
 git clone username@host:/path/to/repository
 {{< /cmd >}}
 
-## Add files to repository
+## Add single files to repository
 {{< cmd >}}
 git add <filename>
 {{< /cmd >}}
 
-## All files
+## All changed files to repository
 {{< cmd >}}
 git add .
 {{< /cmd >}}
@@ -47,6 +47,8 @@ git push origin master
 {{< cmd >}}
 git remote add origin <server>
 {{< /cmd >}}
+
+### Branches
 
 ## Create new branch and switch to it
 {{< cmd >}}
@@ -68,6 +70,7 @@ git branch -d feature_x
 git push origin <branch>
 {{< /cmd >}}
 
+### Remote repository
 ## Check which remote repos are connected
 {{< cmd >}}
 git remote -v
