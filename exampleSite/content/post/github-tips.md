@@ -1,6 +1,6 @@
 ---
 title: "Github commands tip sheet"
-date: 2020-05-13T15:36:09-06:00
+date: 2020-05-12T15:36:09-06:00
 tags: [unix, tips]
 ---
 
