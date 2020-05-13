@@ -17,3 +17,6 @@ git commit -m "$msg"
 
 # Push source and build repos.
 git push origin master
+
+# Say thank you!
+printf "\033[0;32mDone! Thank you! \033[0m\n"
