@@ -1,6 +1,6 @@
 # Cupper
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/bc8c4e51-37ee-419d-ad4f-b378010ee546/deploy-status)](https://app.netlify.com/sites/cupper-hugo-theme/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/99f6ecc6-7506-446d-9427-2815dc6dec9e/deploy-status)](https://app.netlify.com/sites/danieljuan/deploys)
 
 An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project.
 
@@ -20,31 +20,10 @@ An accessibility-friendly Hugo theme, ported from the [original Cupper](https://
 - [Getting help](#getting-help)
 - [Credits](#credits)
 
-## Demo
-
-https://cupper-hugo-theme.netlify.com/
-
-## Minimum Hugo version
 
 Hugo version `0.60.1` or higher is required. View the [Hugo releases](https://github.com/gohugoio/hugo/releases) and download the binary for your OS.
 
-## Installation
-
-From the root of your site:
-
-```
-git submodule add https://github.com/zwbetz-gh/cupper-hugo-theme.git themes/cupper-hugo-theme
-```
-
-## Updating
-
-From the root of your site:
-
-```
-git submodule update --remote --merge
-```
-
-## Run example site
+## Run site
 
 From the root of `themes/cupper-hugo-theme/exampleSite`:
 
