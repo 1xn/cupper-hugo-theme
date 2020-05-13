@@ -27,7 +27,7 @@ params:
 
 menu:
   nav:
-    - name: Home
+    - name: Homey
       url: /
       weight: 1
     - name: Blog
