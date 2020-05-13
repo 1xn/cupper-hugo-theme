@@ -8,6 +8,8 @@ Welcome to the personal website of **Daniel Juan**: a developer and designer bas
 {{< ticks >}}
 * Healthy Food
 * Vintage Computing
+* Automated publishing
+* Generative Art
 {{< /ticks >}}
 
 {{< warning >}}

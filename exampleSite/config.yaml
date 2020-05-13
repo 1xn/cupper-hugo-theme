@@ -17,9 +17,9 @@ imaging:
   quality: 99
 
 params:
-  description: Hello World
-  homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
-  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).
+  description: Earl Grey, hot please.
+  homeMetaContent: A personal page built with Hugo and a theme ported from the original Cupper project.
+  footer: Made with [Hugo](https://gohugo.io/).
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
   codePenUser: someUser
