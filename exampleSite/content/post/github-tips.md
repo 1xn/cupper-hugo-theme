@@ -1,7 +1,7 @@
 ---
 title: "Github commands tip sheet"
 date: 2020-05-12T15:36:09-06:00
-tags: [unix, tips]
+tags: [unix, tips, command line]
 ---
 
 Every now and then I come up with a command or little script that makes my work at the computer easier and more enjoyable. I try to keep up with a list of these useful commands or snippets.
@@ -63,17 +63,17 @@ git checkout master
 git branch -d feature_x
 {{< /cmd >}}
 
-## A new branch won't be available for the others at least you push the branch to the remote repository.
+## Make new branch available for others 
 {{< cmd >}}
 git push origin <branch>
 {{< /cmd >}}
 
-## Check which remote repos you have connected with your local repos:
+## Check which remote repos are connected
 {{< cmd >}}
 git remote -v
 {{< /cmd >}}
 
-## Remove the remote repo (say, origin)
+## Remove the remote repo
 {{< cmd >}}
 git remote rm origin
 {{< /cmd >}}
