@@ -9,3 +9,7 @@ Welcome to the personal website of **Daniel Juan**: a developer and designer bas
 * Healthy Food
 * Vintage Computing
 {{< /ticks >}}
+
+{{< warning >}}
+This is a warning! This site is a work in progress and shouldnt be functional at all times. enter at your own risk!
+{{< /warning >}}
