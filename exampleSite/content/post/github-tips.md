@@ -6,7 +6,7 @@ tags: [unix, tips, command line, git]
 
 Here is a little `git` guide for the command-line. These are the most used commands in my case, im sure there are many more so if I learn anything new it will be added here.
 
-### The Basics
+# Github Basics
 
 ## Initialize new github repository
 {{< cmd >}}
@@ -48,7 +48,7 @@ git push origin master
 git remote add origin <server>
 {{< /cmd >}}
 
-### Branches
+# Github Branches
 
 ## Create new branch and switch to it
 {{< cmd >}}
@@ -70,7 +70,7 @@ git branch -d feature_x
 git push origin <branch>
 {{< /cmd >}}
 
-### Remote repository
+# Remote repository
 ## Check which remote repos are connected
 {{< cmd >}}
 git remote -v
